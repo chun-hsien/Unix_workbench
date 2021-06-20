@@ -1,0 +1,11 @@
+---
+title: "Unix_workbench_learn"
+author: "Chun Hsien Wu"
+date: "2021年6月20日"
+output: html_document
+---
+
+```{bash}
+pwd
+```
+
