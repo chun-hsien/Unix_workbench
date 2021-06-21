@@ -7,5 +7,9 @@ output: html_document
 
 ```{bash}
 pwd
+cd /home/son/Documents
+wc states.txt
 ```
+
+
 
